@@ -1,3 +1,3 @@
 # Webpage
 
-(laicommunities.com)[laicommunities.com]
+(https://laicommunities.com)[laicommunities.com]
